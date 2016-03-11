@@ -1,0 +1,1 @@
+# ms-week-csharp-clean-code-conventions
